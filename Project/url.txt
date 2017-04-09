@@ -1,0 +1,2 @@
+http://demos.creative-tim.com/material-dashboard-pro/examples/pages/login.html
+http://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html
